@@ -1,2 +1,6 @@
 # ReactNative101
-This project is to learn the basics of react native
+Documentation Link - https://reactnative.dev/docs/getting-started
+React Native Directory - https://reactnative.directory/
+
+This project is to learn the basics of react native.
+
